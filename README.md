@@ -20,5 +20,6 @@ $ node main.js
 
 # Ref
 
-↓こちらでいろいろ解説しています。ぜひごらんください。
+こちらでいろいろ解説しています。ぜひごらんください。
+
 https://zenn.dev/harukaeru/articles/45d2579493a5c4
